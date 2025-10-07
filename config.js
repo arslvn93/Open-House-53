@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "18 Smith Road",
     "city": "North Grenville",
@@ -120,6 +120,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-53",
     "tag": "Open House 18 Smith Road",
     "netlifyUrl": null,
-    "siteId": "1071730756"
+    "siteId": "0de17de7-2fa9-4ce4-b2b1-cc680322d3af"
   }
 }
